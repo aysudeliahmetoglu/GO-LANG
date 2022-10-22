@@ -1,8 +1,11 @@
+//Package clause
 package main
 
+//Import Statement
 import "fmt"
 
-func main() {
-	fmt.Println("hello world")
-
+//My code 
+func main()
+{
+	fmt.Println("Hello World")
 }
