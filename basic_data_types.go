@@ -21,16 +21,19 @@ func main(){
    fmt.Printf("%T\n",weight)
    fmt.Printf("%T\n",number)
 
+   /*numeric types:
+   int uint8 -> unsigned (0 to 255)
+	float -> float32
+    complex 
+    byte
+    rune
 
+   string types:
 
-   //numeric types:
-   // int uint8 -> unsigned (0 to 255)
-   // float -> float32
-   // complex 
-   // byte
-   // rune
+   boolean tpes:
+   true-false
 
-   //string types
-
+   composite types:
+   slice-struct-pointer-function -interface-map-channel-array */
 
 }
